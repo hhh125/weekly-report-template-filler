@@ -1,0 +1,5 @@
+interface:
+  display_name: "Weekly Report Template Filler"
+  short_description: "Parse a user-uploaded weekly report template and generate blank or filled reports with markdown preview, json output, and word export."
+  icon: clipboard-list
+  brand_color: indigo
